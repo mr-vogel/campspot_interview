@@ -12,4 +12,4 @@ How to Run Program
 * Right click and choose the option to run 'InterviewTestCase'
 
 Things to consider...
-* THe dev project doesn't always load the form correctly. If the tests are failing really quickly and not interacting with the form, try to rerun a few time and see if the results vary
+* The dev project doesn't always load the form correctly. If the tests are failing really quickly and not interacting with the form, try to rerun a few time and see if the results vary
